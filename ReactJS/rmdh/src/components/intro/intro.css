@@ -1,0 +1,17 @@
+.container1 {
+    margin: 2rem auto; 
+    width: 40%; 
+    font-size: 1.5rem;
+    padding: 2rem; 
+    box-sizing: border-box; 
+    transform: translate(-70%, -10%);
+}
+
+.container2 {
+    margin: 2rem auto; 
+    width: 40%; 
+    font-size: 1.5rem;
+    padding: 2rem; 
+    box-sizing: border-box;
+    transform: translate(70%, -5%);
+}
